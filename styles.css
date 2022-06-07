@@ -1,0 +1,18 @@
+.container {
+    background-color: #f1f1f1; 	
+    padding: 15px;
+    		
+ }
+
+ .head {
+    text-align: center;		
+ }
+
+ img.foto {
+    width:200px;
+    border-radius: 5%;
+}
+
+img.icon {
+    width:25px;
+}
