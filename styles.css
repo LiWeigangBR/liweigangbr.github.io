@@ -1,7 +1,8 @@
 .container {
     background-color: #f1f1f1; 	
     padding: 15px;
-    		
+    width:890px;
+    margin: 10px auto;		
  }
 
  .head {
@@ -9,8 +10,9 @@
  }
 
  img.foto {
-    width:200px;
+    width:190px;
     border-radius: 5%;
+    margin: 20px 15px;
 }
 
 img.icon {
