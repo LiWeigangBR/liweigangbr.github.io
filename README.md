@@ -1,5 +1,3 @@
 # Li weigang
 
-Professor - Researcher
-
-## Biography
+Professor and Director of TransLab at the University of Brasilia, Brazil
