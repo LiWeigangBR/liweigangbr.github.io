@@ -3,7 +3,7 @@
     padding: 15px;
     height:auto;
     width:1000px;
-    height:2200px;
+    height:2300px;
     margin: 10px auto;
     margin-top:0;
     margin-left:auto;
@@ -11,24 +11,24 @@
     margin-right:auto;
  }
 
- h1 {
+h1 {
     padding-bottom:0px;
  }
 
- .head{
+.head{
     margin-top:auto;
     padding-bottom:0.1px;
     line-height: 19px;
  }
 
- .subhead{
+.subhead{
     line-height: 0px;
  }
 
 img.foto {
     width:190px;
     border-radius: 5%;
-    margin: 20px 15px;
+    margin: 20px 10px;
 }
 
 img.icon {
@@ -36,15 +36,19 @@ img.icon {
     vertical-align: -4px;
 }
 
-#right {
-	float: left ;
-	width:500px;
-}
-
 #left {
 	float: left ;
-    width:250px;
-    height:2100px;
+	width:240px;
+}
+
+#right{
+	float: left ;
+    width:760px;
+    height:2000px;
+}
+
+.linkborder{
+    margin: 20px 10px;
 }
 
 p1{
